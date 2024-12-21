@@ -157,3 +157,22 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
   });
 }
+
+
+
+
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FV59KGZ5LH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FV59KGZ5LH');
+</script>
+
+
+
+
